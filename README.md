@@ -1,4 +1,4 @@
-## Langex [![Build Status](https://travis-ci.org/nicholasadamou/langdex.svg?branch=master)](https://travis-ci.org/nicholasadamou/muuvies)
+## Langdex [![Build Status](https://travis-ci.org/nicholasadamou/langdex.svg?branch=master)](https://travis-ci.org/nicholasadamou/langdex)
 
 ![preview](previews/preview.gif)
 
