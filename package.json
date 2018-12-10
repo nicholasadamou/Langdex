@@ -12,7 +12,7 @@
     "node-sass": "^4.10.0",
     "pug-loader": "^2.4.0",
     "style-loader": "^0.23.1",
-    "vue": "^2.5.17",
+    "vue": "^2.5.19",
     "vue-resource": "^1.5.1"
   },
   "devDependencies": {
