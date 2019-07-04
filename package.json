@@ -6,14 +6,17 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "node-sass": "^4.12.0",
     "pug-loader": "^2.4.0",
     "style-loader": "^0.23.1",
     "vue": "^2.6.10",
-    "vue-resource": "^1.5.1"
+    "vue-resource": "^1.5.1",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
@@ -24,5 +27,6 @@
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "snyk": true
 }
