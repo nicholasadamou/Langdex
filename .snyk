@@ -10,3 +10,25 @@ patch:
         patched: '2019-07-04T03:52:39.951Z'
     - node-sass > gaze > globule > lodash:
         patched: '2019-07-04T03:52:39.951Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-05T03:53:00.111Z'
