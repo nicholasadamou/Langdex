@@ -16,7 +16,7 @@
     "style-loader": "^0.23.1",
     "vue": "^2.6.10",
     "vue-resource": "^1.5.1",
-    "snyk": "^1.203.0"
+    "snyk": "^1.205.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.2",
