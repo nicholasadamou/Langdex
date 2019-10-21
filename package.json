@@ -19,7 +19,7 @@
     "snyk": "^1.236.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.0.3",
+    "@vue/cli-plugin-babel": "^4.0.4",
     "@vue/cli-plugin-eslint": "^3.11.0",
     "@vue/cli-service": "^4.0.4",
     "@vue/eslint-config-airbnb": "^4.0.1",
