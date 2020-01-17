@@ -11,7 +11,7 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "pug-loader": "^2.4.0",
     "style-loader": "^0.23.1",
     "vue": "^2.6.11",
