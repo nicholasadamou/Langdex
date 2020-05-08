@@ -38,7 +38,7 @@ Simply run, `yarn serve` to compile and hot-reload for development.
 
 ## License
 
-Langdex is © 2018, Nicholas Adamou
+Langdex is © Nicholas Adamou
 
 It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
 
