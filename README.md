@@ -14,8 +14,6 @@ A simple UI used for translating words and phrases into other languages.
 
 A web application used for translating words and phrases to other languages.
 
-⚠️ To access the demo of 'Langdex' visit this link: [Langdex demo](https://langdex.netlify.com/).
-
 ## Features
 
 This project uses:
